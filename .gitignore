@@ -1,0 +1,28 @@
+# Ignore IDE files
+.idea/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+traffic/
+venv/
+.env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and database
+*.log
+*.db
+
+# Ignore Docker artifacts (if any)
+*.pid
+
+# Optional: Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode config (if using)
+.vscode/
