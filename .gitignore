@@ -17,6 +17,7 @@ Thumbs.db
 # Ignore logs and database
 *.log
 *.db
+mongo_data/
 
 # Ignore Docker artifacts (if any)
 *.pid
